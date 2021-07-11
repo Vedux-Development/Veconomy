@@ -1,2 +1,2 @@
 # Discord Economy Bot
- Just an simple discord.js economy bot using quick.db
+Learn how to setup this project yourself
